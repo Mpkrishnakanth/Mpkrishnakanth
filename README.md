@@ -10,9 +10,9 @@
 ### 👋 About Me
 
 - 🎓 **MS in Data Science** @ Arizona State University  
-- 💼 **Data Analyst** with 3+ years of industry experience  
+- 💼 **Data Analyst** with 3+ years of experience  
 - 🏢 Former **Data Analyst @ Accenture**  
-- 🔍 Actively seeking **Data Analyst / Business Analyst** roles  
+- 🔍 Seeking **Data Analyst / Business Analyst** roles  
 - 📍 Tempe, AZ | **Open to Relocation**
 
 ---
@@ -24,10 +24,11 @@
   <img src="https://skillicons.dev/icons?i=python,r,c,sql" />
 </p>
 
+- **Microsoft Excel (Advanced)** — Pivot Tables, Power Query, VLOOKUP/XLOOKUP, Dashboards
+
 ### 📊 BI, ERP & Enterprise Tools
 - **SAP (SAP HANA, SAP Analytics Cloud)**
 - Salesforce
-- Advanced Excel
 - Power BI
 - Tableau
 
@@ -41,8 +42,8 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-- Relational Databases (MySQL, PostgreSQL)  
-- NoSQL Databases (MongoDB)  
+- Relational Databases: MySQL, PostgreSQL  
+- NoSQL: MongoDB  
 
 ### 🤖 Machine Learning & AI
 <p>
@@ -50,8 +51,7 @@
 </p>
 
 - Regression, Classification, Clustering  
-- Model Evaluation & Feature Engineering  
-- Data Preprocessing & Visualization  
+- Feature Engineering & Model Evaluation  
 
 ---
 
