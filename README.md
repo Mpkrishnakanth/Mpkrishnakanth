@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Krishna Kanth :man_technologist:</h1>
+<h1 align="center">Hi, I'm Krishna Kanth 👨‍💻</h1>
 
 <img align="right"
      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ2dHIzZjMzbjd2aGpwdmIyamJmMjl0MGo5eXkxbjd0OGk5bncwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"
@@ -7,39 +7,53 @@
 
 ---
 
-- 🎓 MS DS @ Arizona State University  
-- 💻 Data Analyst with 3 years of experience  
-- 💼 Former Data Analyst @ Accenture    
-- 👀 Interested in Data Analyst / Business Analyst roles  
-- 📍 Tempe, AZ | Open to Relocate  
-  
+### 👋 About Me
+
+- 🎓 **MS in Data Science** @ Arizona State University  
+- 💼 **Data Analyst** with 3+ years of industry experience  
+- 🏢 Former **Data Analyst @ Accenture**  
+- 🔍 Actively seeking **Data Analyst / Business Analyst** roles  
+- 📍 Tempe, AZ | **Open to Relocation**
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Frameworks
+### 💻 Programming & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,c,sql" />
 </p>
 
+### 📊 BI, ERP & Enterprise Tools
+- **SAP (SAP HANA, SAP Analytics Cloud)**
+- Salesforce
+- Advanced Excel
+- Power BI
+- Tableau
+
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,Salesforce,Azure,GCP,linux,github" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,github" />
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases & Data Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,NoSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### 🤖 Machine Learning
+- Relational Databases (MySQL, PostgreSQL)  
+- NoSQL Databases (MongoDB)  
+
+### 🤖 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
+- Regression, Classification, Clustering  
+- Model Evaluation & Feature Engineering  
+- Data Preprocessing & Visualization  
+
+---
 
 ## 🤝 Connect With Me
 
