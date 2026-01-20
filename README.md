@@ -10,7 +10,7 @@
 - 🎓 MS DS @ Arizona State University  
 - 💻 Data Analyst with 3 years of experience  
 - 💼 Former Data Analyst @ Accenture    
-- 👀 Interested in Data Analyst / Data Engineer / Data Scientist roles  
+- 👀 Interested in Data Analyst / Business Analyst roles  
 - 📍 Tempe, AZ | Open to Relocate  
   
 
@@ -27,12 +27,12 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,Salesforce,Azure,GCP,linux,github" />
 </p>
 
 ### 🗄️ Databases & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,excel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,NoSQL" />
 </p>
 
 ### 🤖 Machine Learning
