@@ -7,19 +7,19 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-- 🎓 **MS in Data Science** @ Arizona State University  
-- 💼 **Data Analyst** with 3+ years of experience  
-- 🏢 Former **Data Analyst @ Accenture**  
-- 🔍 Seeking **Data Analyst / Business Analyst** roles  
-- 📍 Tempe, AZ | **Open to Relocation**
+- **Masters in Data Analytics** @ Arizona State University  
+- **Data Analyst** with 3+ years of experience  
+- Former **Business Analyst @ Accenture**  
+- Seeking **Data Analyst / Business Analyst** FTE roles  
+- Travels between Phoenix, AZ and Philadelphia
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming & Analytics
+###  Programming & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,c,sql" />
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me 👇
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnakanthmp">
